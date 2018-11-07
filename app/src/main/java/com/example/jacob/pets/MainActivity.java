@@ -10,7 +10,7 @@ import android.util.TypedValue;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String[] animals = new String[]{"Dog", "Cat", "Parrot", "Goldfish"};
+    public static final String[] animals = new String[]{"Dog", "Cat", "Parrot", "Goldfish", "Monkey", "Anteater", "Aardvark"};
 
     LinearLayout layoutList;
     Context context;
